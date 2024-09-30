@@ -1,6 +1,5 @@
 # Palchat
 
-Deployed Link: https://palchat-u34b.onrender.com/
 
 ## Description
 "This application includes users and posts, functioning like a social media platform where logged-in users can share their thoughts, feelings, and engage in discussions on various topics. Each post is logged with the time it was created, allowing users to see when it was shared."
